@@ -17,7 +17,7 @@ With its built-in interface, Payload Sprayer displays injection results through 
      ```
 
 3. **Add the Extension in Burp**:
-   - In Burp Suite, go to `Extensions > Add` and add the Payload Sprayer JAR or Python file.
+   - In Burp Suite, go to `Extensions > Add` and add the Payload Sprayer Python file.
 
 4. **Set Up Configurations**:
    - Open the `Configuration` tab in Payload Sprayer within Burp Suite to set paths for any external tools and add the OpenAI API key if AI-assisted features are enabled.
