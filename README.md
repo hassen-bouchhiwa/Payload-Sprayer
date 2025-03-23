@@ -41,4 +41,3 @@ With its built-in interface, Payload Sprayer displays injection results through 
    - **Generate and Launch Commands**: Allow the tool to automatically generate the scanner commands and execute them.
    - **Inspect Scanner Results**: Review the scanner outputs for detected vulnerabilities and additional insights.
 
-For more detailed usage instructions, refer to the [Payload Sprayer Documentation](link-to-documentation).
